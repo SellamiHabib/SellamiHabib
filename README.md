@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MEAN stack**
 
-- 📫 How to reach me **Habib.sellami@outlook.com**
+- 📫 Reach out to me via **Habib.sellami@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
