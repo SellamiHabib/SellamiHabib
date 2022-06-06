@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habib Sellami</h1>
 <h3 align="center">A passionate software engineering student, in a constant pursuit of learning opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sellamihabib&label=Profile%20views&color=0e75b6&style=flat" alt="sellamihabib" /> </p>
-
-
 
 - 🔭 I’m currently working with the **IEEE R8 SYP Webmaster team**
 
