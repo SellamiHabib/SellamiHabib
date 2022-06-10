@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with the **IEEE R8 SYP Webmaster team**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 📫 Reach out to me via **Habib.sellami@outlook.com**
 
