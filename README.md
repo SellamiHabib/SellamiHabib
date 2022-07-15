@@ -10,7 +10,10 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2021<br><br>📚 I'm currently learning the MEN in MERN<br><br>🎯 Goals: Be able to code the day google shuts down<br><br>🎲 Fun fact: I won't be  able to code when google shuts down<br><br> 📫 Reach out to me via **Habib.sellami@outlook.com**
+<h4 align="left">✨ Creating bugs since the age of 15<br><br>
+📚 I'm currently working on the IEEE Reagion8 SYP website and learning the MEN in MERN.<br><br>
+🎯 I'm trying to discover as many software engineering fields as I can before settling in! <br><br>
+📫 Reach out to me via **Habib.sellami@outlook.com**
 <h2 align="left">I code with</h2></p>
 
 
