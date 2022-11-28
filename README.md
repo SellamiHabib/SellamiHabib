@@ -11,7 +11,7 @@
 ###
 
 <h4 align="left">✨ Creating bugs since the age of 15<br><br>
-📚 I'm currently working on the IEEE Reagion8 SYP website and learning the MEN in MERN.<br><br>
+📚 I'm currently a software engineer<br><br>
 🎯 I'm trying to discover as many software engineering fields as I can before settling in! <br><br>
 📫 Reach out to me via **Habib.sellami@outlook.com**
 <h2 align="left">I code with</h2></p>
