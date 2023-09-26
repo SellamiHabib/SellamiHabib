@@ -1,14 +1,14 @@
 <h1 align="left">Hey there 👋, I'm Habib </h1>
 
-###
+
 
 <h3 align="left">My name is Habib Sellami and I'm a software engineering student from INSAT</h3>
 
-###
+
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <h4 align="left">✨ Creating bugs since the age of 15<br><br>
 📚 I'm currently a software engineer<br><br>
@@ -18,7 +18,7 @@
 
 
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
 </div>
 
-###
+##
 
 <h2 align="left">
     <b>Connect with me!</b>
